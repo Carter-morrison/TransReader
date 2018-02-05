@@ -1,0 +1,19 @@
+DLM!
+FRE!3!"Print this line"
+FRE!4!
+RDI!-10!10
+RDI!-10!
+MSP!-8
+MSR!144
+MSR!
+YLM!36
+MSQ!10
+MSR!
+DLM#
+MRI!-2!10
+MRI!5!7
+MRI!-5!
+MDB!5.56!6.023
+MDB!
+MDB!-6.90!10.001
+XXX!2!10

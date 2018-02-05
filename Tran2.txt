@@ -1,0 +1,17 @@
+DLM%
+FRE%4%"This is the \nline2 to print"
+RDI%-10%-1
+MSR%25
+FRE%6
+YLM%36
+MSR%100
+MSQ%10
+MSR%36
+MSR%
+DLM#
+MSQ%-8
+RDI%-10%10
+RDI%2
+MRI%-2%10
+XXX%2%10
+MRI%-5%0

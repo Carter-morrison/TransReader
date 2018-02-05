@@ -1,0 +1,12 @@
+DLM%
+FRE%4%"This is the line to print"
+RDI%1%25
+RDI%2%5
+FRE%2%"Second print"
+MSR%25
+MSQ%10
+MSR%9
+MSQ%9
+MRI%5%10
+MRI%0%9
+FRE%1%"THE END Again!!!"
